@@ -1,0 +1,302 @@
+2023-11-21 02:02:10.9500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 02:02:11.0142 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 02:02:11.0142 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 02:02:11.0328 Info Configuration initialized.
+2023-11-21 02:37:19.7135 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 02:37:19.7493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 02:37:19.7683 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 02:37:19.7868 Info Configuration initialized.
+2023-11-21 16:45:31.6300 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 16:45:31.6871 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 16:45:31.6871 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 16:45:31.7045 Info Configuration initialized.
+2023-11-21 16:51:38.0300 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 16:51:38.0504 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 16:51:38.0615 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 16:51:38.0768 Info Configuration initialized.
+2023-11-21 23:03:56.6686 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 23:03:56.6980 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 23:03:56.7111 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 23:03:56.7248 Info Configuration initialized.
+2023-11-21 23:29:58.4973 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 23:29:58.5258 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 23:29:58.5369 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 23:29:58.5518 Info Configuration initialized.
+2023-11-21 23:35:09.6352 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 23:35:09.6631 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 23:35:09.6757 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 23:35:09.6880 Info Configuration initialized.
+2023-11-21 23:36:37.1732 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 23:36:37.2027 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 23:36:37.2185 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 23:36:37.2314 Info Configuration initialized.
+2023-11-21 23:39:53.4531 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 23:39:53.4776 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 23:39:53.4879 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 23:39:53.5052 Info Configuration initialized.
+2023-11-21 23:41:19.3363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-21 23:41:19.3638 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-21 23:41:19.3753 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-21 23:41:19.3901 Info Configuration initialized.
+2023-11-24 01:09:04.3717 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 01:09:04.4375 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 01:09:04.4458 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-24 01:09:04.4458 Info Configuration initialized.
+2023-11-24 01:14:18.9807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 01:14:19.0009 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 01:14:19.0093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-24 01:14:19.0093 Info Configuration initialized.
+2023-11-24 01:23:13.8215 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 01:23:13.8447 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 01:23:13.8548 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-24 01:23:13.8548 Info Configuration initialized.
+2023-11-24 01:34:17.5227 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 01:34:17.5464 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 01:34:17.5589 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-24 01:34:17.5769 Info Configuration initialized.
+2023-11-27 01:45:17.7276 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-27 01:45:17.7922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-27 01:45:17.8010 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-27 01:45:17.8127 Info Configuration initialized.
+2023-11-29 19:00:32.7474 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:00:32.8113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:00:32.8202 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:00:32.8305 Info Configuration initialized.
+2023-11-29 19:01:29.1366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:01:29.1646 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:01:29.1789 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:01:29.1911 Info Configuration initialized.
+2023-11-29 19:04:45.7902 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:04:45.8198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:04:45.8319 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:04:45.8476 Info Configuration initialized.
+2023-11-29 19:12:57.7959 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:12:57.8186 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:12:57.8268 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:12:57.8268 Info Configuration initialized.
+2023-11-29 19:25:40.9511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:25:40.9866 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:25:41.0084 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:25:41.0341 Info Configuration initialized.
+2023-11-29 19:39:26.9431 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:39:26.9727 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:39:26.9866 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:39:27.0045 Info Configuration initialized.
+2023-11-29 19:45:41.5892 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:45:41.6161 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:45:41.6277 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:45:41.6409 Info Configuration initialized.
+2023-11-29 19:48:48.3366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:48:48.3605 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:48:48.3605 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:48:48.3839 Info Configuration initialized.
+2023-11-29 19:59:06.3136 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 19:59:06.3426 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 19:59:06.3426 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 19:59:06.3653 Info Configuration initialized.
+2023-11-29 20:02:01.9369 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-29 20:02:01.9651 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-29 20:02:01.9750 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-29 20:02:01.9862 Info Configuration initialized.
+2023-11-30 18:54:43.7023 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-30 18:54:43.7746 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-30 18:54:43.7853 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-30 18:54:43.7967 Info Configuration initialized.
+2023-11-30 19:20:26.1386 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-30 19:20:26.2290 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-30 19:20:26.2392 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-11-30 19:20:26.2500 Info Configuration initialized.
+2023-12-01 14:45:01.1523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 14:45:01.2240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 14:45:01.2338 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 14:45:01.2338 Info Configuration initialized.
+2023-12-01 15:39:13.1171 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 15:39:13.2210 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 15:39:13.2210 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 15:39:13.2406 Info Configuration initialized.
+2023-12-01 15:40:32.6619 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 15:40:32.6906 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 15:40:32.7024 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 15:40:32.7024 Info Configuration initialized.
+2023-12-01 15:47:40.8862 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 15:47:40.9115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 15:47:40.9230 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 15:47:40.9393 Info Configuration initialized.
+2023-12-01 15:51:41.4934 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 15:51:41.5176 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 15:51:41.5176 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 15:51:41.5397 Info Configuration initialized.
+2023-12-01 16:20:35.5862 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 16:20:35.6137 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 16:20:35.6259 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 16:20:35.6259 Info Configuration initialized.
+2023-12-01 18:32:39.9734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 18:32:40.0040 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 18:32:40.0040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 18:32:40.0231 Info Configuration initialized.
+2023-12-01 18:58:22.0450 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 18:58:22.0765 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 18:58:22.0765 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 18:58:22.1026 Info Configuration initialized.
+2023-12-01 19:04:43.7709 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 19:04:43.8002 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 19:04:43.8116 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 19:04:43.8116 Info Configuration initialized.
+2023-12-01 19:46:38.1311 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-01 19:46:38.1610 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-01 19:46:38.1749 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-01 19:46:38.1881 Info Configuration initialized.
+2023-12-05 01:01:41.2739 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:01:41.3073 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:01:41.3143 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:01:41.3143 Info Configuration initialized.
+2023-12-05 01:01:42.1408 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:01:42.1408 Info LogFactory has been closed.
+2023-12-05 01:02:58.7718 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:02:58.7718 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:02:58.7876 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:02:58.7960 Info Configuration initialized.
+2023-12-05 01:02:59.3466 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:02:59.3466 Info LogFactory has been closed.
+2023-12-05 01:05:13.5239 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:05:13.5320 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:05:13.5320 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:05:13.5466 Info Configuration initialized.
+2023-12-05 01:05:14.4514 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:05:14.4577 Info LogFactory has been closed.
+2023-12-05 01:06:07.4596 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:06:07.4681 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:06:07.4681 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:06:07.4681 Info Configuration initialized.
+2023-12-05 01:06:08.2617 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:06:08.2685 Info LogFactory has been closed.
+2023-12-05 01:07:59.0020 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:07:59.0020 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:07:59.0176 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:07:59.0176 Info Configuration initialized.
+2023-12-05 01:07:59.7286 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:07:59.7286 Info LogFactory has been closed.
+2023-12-05 01:08:01.9546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:08:01.9546 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:08:01.9701 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:08:01.9701 Info Configuration initialized.
+2023-12-05 01:08:02.8579 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:08:02.8637 Info LogFactory has been closed.
+2023-12-05 01:08:27.1539 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:08:27.1622 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:08:27.1622 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:08:27.1773 Info Configuration initialized.
+2023-12-05 01:08:27.9543 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:08:27.9543 Info LogFactory has been closed.
+2023-12-05 01:08:44.1396 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:08:44.1488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:08:44.1559 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:08:44.1559 Info Configuration initialized.
+2023-12-05 01:08:45.3207 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:08:45.3207 Info LogFactory has been closed.
+2023-12-05 01:22:40.5577 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:22:40.5672 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:22:40.5672 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:22:40.5819 Info Configuration initialized.
+2023-12-05 01:22:41.3932 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:22:41.3932 Info LogFactory has been closed.
+2023-12-05 01:23:09.9656 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 01:23:09.9746 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-05 01:23:09.9746 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-05 01:23:09.9902 Info Configuration initialized.
+2023-12-05 01:23:10.9225 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 01:23:10.9225 Info LogFactory has been closed.
+2023-12-06 01:02:17.7404 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 01:02:17.8016 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 01:02:17.8016 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 01:02:17.8217 Info Configuration initialized.
+2023-12-06 01:18:56.1398 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 01:18:56.2236 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 01:18:56.2236 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 01:18:56.2424 Info Configuration initialized.
+2023-12-06 03:40:22.5471 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 03:40:22.5695 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 03:40:22.5695 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 03:40:22.5879 Info Configuration initialized.
+2023-12-06 23:17:51.3091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 23:17:51.3947 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 23:17:51.3947 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 23:17:51.4133 Info Configuration initialized.
+2023-12-06 23:23:32.1312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 23:23:32.1515 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 23:23:32.1596 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 23:23:32.1596 Info Configuration initialized.
+2023-12-06 23:24:14.3642 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 23:24:14.3838 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 23:24:14.3920 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 23:24:14.3920 Info Configuration initialized.
+2023-12-06 23:25:11.5051 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 23:25:11.5250 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 23:25:11.5334 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 23:25:11.5334 Info Configuration initialized.
+2023-12-06 23:29:41.5807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 23:29:41.5996 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 23:29:41.6084 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 23:29:41.6084 Info Configuration initialized.
+2023-12-06 23:46:48.0653 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 23:46:48.0848 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 23:46:48.0926 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 23:46:48.0926 Info Configuration initialized.
+2023-12-06 23:52:29.5803 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 23:52:29.5996 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-06 23:52:29.5996 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-06 23:52:29.6167 Info Configuration initialized.
+2023-12-07 00:35:27.0013 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 00:35:27.0013 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 00:35:27.0166 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 00:35:27.0166 Info Configuration initialized.
+2023-12-07 00:35:27.9578 Info AppDomain Shutting down. LogFactory closing...
+2023-12-07 00:35:27.9578 Info LogFactory has been closed.
+2023-12-07 00:35:55.7570 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 00:35:55.7570 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 00:35:55.7718 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 00:35:55.7718 Info Configuration initialized.
+2023-12-07 00:35:56.7673 Info AppDomain Shutting down. LogFactory closing...
+2023-12-07 00:35:56.7673 Info LogFactory has been closed.
+2023-12-07 01:41:02.5553 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 01:41:02.5781 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 01:41:02.5862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 01:41:02.5959 Info Configuration initialized.
+2023-12-07 01:48:48.5445 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 01:48:48.5529 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 01:48:48.5529 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 01:48:48.5673 Info Configuration initialized.
+2023-12-07 01:48:49.2494 Info AppDomain Shutting down. LogFactory closing...
+2023-12-07 01:48:49.2549 Info LogFactory has been closed.
+2023-12-07 01:49:10.0148 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 01:49:10.0227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 01:49:10.0227 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 01:49:10.0374 Info Configuration initialized.
+2023-12-07 01:49:10.8460 Info AppDomain Shutting down. LogFactory closing...
+2023-12-07 01:49:10.8460 Info LogFactory has been closed.
+2023-12-07 01:49:19.0923 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 01:49:19.0998 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 01:49:19.0998 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 01:49:19.1150 Info Configuration initialized.
+2023-12-07 01:49:20.1846 Info AppDomain Shutting down. LogFactory closing...
+2023-12-07 01:49:20.1901 Info LogFactory has been closed.
+2023-12-07 01:49:24.8287 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 01:49:24.8537 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 01:49:24.8633 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 01:49:24.8760 Info Configuration initialized.
+2023-12-07 02:06:31.6250 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 02:06:31.6471 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 02:06:31.6573 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 02:06:31.6573 Info Configuration initialized.
+2023-12-07 02:12:03.4934 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 02:12:03.5195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 02:12:03.5195 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 02:12:03.5417 Info Configuration initialized.
+2023-12-07 02:14:15.9952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 02:14:16.0148 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 02:14:16.0231 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 02:14:16.0349 Info Configuration initialized.
+2023-12-07 02:16:58.0369 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 02:16:58.0578 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-12-07 02:16:58.0661 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\MehmetPala\Projects\ContactApp\ContackApp\nlog.config
+2023-12-07 02:16:58.0661 Info Configuration initialized.

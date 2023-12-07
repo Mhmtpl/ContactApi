@@ -1,0 +1,12 @@
+C:\MehmetPala\Projects\ContactApp\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\MehmetPala\Projects\ContactApp\Entities\bin\Debug\net6.0\Entities.dll
+C:\MehmetPala\Projects\ContactApp\Entities\bin\Debug\net6.0\Entities.pdb
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\Entities.dll
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\Entities.pdb
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\MehmetPala\Projects\ContactApp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
